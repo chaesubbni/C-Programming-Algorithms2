@@ -1,0 +1,3 @@
+﻿  소스.cpp
+C:\Users\ASUS\source\repos\Dijkstra_Algorithm\Dijkstra_Algorithm\소스.cpp(75,10): warning C4778: 'printf' : 서식 문자열 '%\n'이(가) 종결되지 않았습니다.
+  Dijkstra_Algorithm.vcxproj -> C:\Users\ASUS\source\repos\Dijkstra_Algorithm\Debug\Dijkstra_Algorithm.exe
